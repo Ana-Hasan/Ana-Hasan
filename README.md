@@ -1,4 +1,4 @@
-## Hi, I'm Ana 🐍
+## Hi, I'm Ana 🦑
 
 I'm a Computer Engineering student with experience building full-stack applications and machine learning systems. I work mainly with React for frontend, Flask for backend, and Python for ML model development. I've built predictive models using Random Forest and LSTM architectures, and I'm currently expanding into product thinking for AI-driven systems.
 
@@ -12,4 +12,4 @@ I'm a Computer Engineering student with experience building full-stack applicati
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark)
+![Stats](https://github-readme-stats.vercel.app/api?username=ANA-HASAN&show_icons=true&theme=dark)
