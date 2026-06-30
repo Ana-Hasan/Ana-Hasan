@@ -12,4 +12,4 @@ I'm a Computer Engineering student with experience building full-stack applicati
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=ANA-HASAN&show_icons=true&theme=dark)
+![Stats](https://github-readme-stats.vercel.app/api?username=Ana-Hasan&show_icons=true&theme=dark)
