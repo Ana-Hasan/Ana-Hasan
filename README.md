@@ -10,22 +10,11 @@ I'm a Computer Engineering student with experience building full-stack applicati
 
 ---
 
-## 📊&nbsp; GitHub Stats
+## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tulika2401&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Tulika's GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tulika2401&theme=tokyonight&hide_border=true" alt="Tulika's GitHub Streak" height="165"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ana-Hasan&theme=react-dark" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tulika2401&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tulika2401&theme=tokyo-night&hide_border=true" alt="Tulika's Activity Graph" />
-</p>
-
-<br/>
 
 
 
